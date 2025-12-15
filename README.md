@@ -1,4 +1,4 @@
-
+![logo](https://github.com/PARI-KSHIT/PARI-KSHIT/blob/main/Gemini_Generated_Image_k49zbbk49zbbk49z.png)
 
 <h1 align="center">Hi 👋, I'm Parikshit Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
