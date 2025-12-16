@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Parikshit Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/e737338a-dd2b-49ad-88a1-4572258900cb" />
+<img align="right" width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/e737338a-dd2b-49ad-88a1-4572258900cb" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pari-kshit&label=Profile%20views&color=0e75b6&style=flat" alt="pari-kshit" /> </p>
